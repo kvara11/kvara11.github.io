@@ -1,0 +1,2606 @@
+[
+    {
+        "eng": "The Northman",
+        "year": "",
+        "geo": "ვიკინგი",
+        "imdb": ""
+    },
+    {
+        "eng": "The French Dispatch",
+        "year": "2020",
+        "geo": "ფრანგული მაცნე",
+        "imdb": ""
+    },
+    {
+        "eng": "Prometheus",
+        "year": "2012",
+        "geo": "პრომეთე",
+        "imdb": ""
+    },
+    {
+        "eng": "Blade Runner",
+        "year": "1982",
+        "geo": "დანის პირზე მორბენალი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "TRON: Legacy",
+        "year": "2010",
+        "geo": "ტრონი:მემკვიდრეობა",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "The Lighthouse",
+        "year": "2019",
+        "geo": "შუქურა",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Harakiri",
+        "year": "1962",
+        "geo": "ჰარაკირი",
+        "imdb": "8.7"
+    },
+    {
+        "eng": "Araseriozuli katsi",
+        "year": "1980",
+        "geo": "არასერიოზული კაცი",
+        "imdb": "9.0"
+    },
+    {
+        "eng": "13",
+        "year": "2010",
+        "geo": "13 ცამეტი",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Angel of Evil",
+        "year": "2010",
+        "geo": "ვალანცასკა - ბოროტების ანგელოზი",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "10:45 (2021)",
+        "year": "2021",
+        "geo": "10:45",
+        "imdb": ""
+    },
+    {
+        "eng": "Beat the Devil (2002)",
+        "year": "2002",
+        "geo": "მოლაპარაკება ეშმაკთან",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Dark Knight (2008)",
+        "year": "2008",
+        "geo": "ბნელი რაინდი",
+        "imdb": "9.0"
+    },
+    {
+        "eng": "The Skin I Live In (2011)",
+        "year": "2011",
+        "geo": "კანი, რომელშიც ვცხოვრობ",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "La Haine (1995)",
+        "year": "1995",
+        "geo": "სიძულვილი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Nobody (2021)",
+        "year": "2021",
+        "geo": "არავინ",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Matador (1986)",
+        "year": "1986",
+        "geo": "მატადორი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Jacob's Ladder (1990)",
+        "year": "1990",
+        "geo": "იაკობის კიბე",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Repentance (1984)",
+        "year": "1984",
+        "geo": "მონანიება",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "Lock, Stock and Two Smoking Barrels (1998)",
+        "year": "1998",
+        "geo": "ბანქო, ფული და ორი ლულა",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "Once Upon a Time... In Hollywood (2019)",
+        "year": "2019",
+        "geo": "ერთხელ ჰოლივუდში",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "8MM (1999)",
+        "year": "1999",
+        "geo": "რვა მილიმეტრი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Sin Nombre (2009)",
+        "year": "2009",
+        "geo": "უსახელო",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Butch Cassidy and the Sundance Kid (1969)",
+        "year": "1969",
+        "geo": "ბუჩ კესიდი და სანდენს კიდი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Bronson (2008)",
+        "year": "2008",
+        "geo": "ბრონსონი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Perfume: The Story of a Murderer (2006)",
+        "year": "2006",
+        "geo": "პარფიუმერი: ერთი მკვლელის ისტორია",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Sunshine (2007)",
+        "year": "2007",
+        "geo": "მზის ნათება",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Ad Astra (2019)",
+        "year": "2019",
+        "geo": "ვარსკვლავებისკენ",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Foxcatcher (2014)",
+        "year": "2014",
+        "geo": "მელიებზე მონადირე",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "The Master (2012)",
+        "year": "2012",
+        "geo": "ოსტატი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Another Round (2020)",
+        "year": "2020",
+        "geo": "კიდევ ერთი ჭიქა",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Invisible Guest (2016)",
+        "year": "2016",
+        "geo": "უხილავი სტუმარი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The Mission (1986)",
+        "year": "1986",
+        "geo": "მისია",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Hara-Kiri: Death of a Samurai (2011)",
+        "year": "2011",
+        "geo": "ხარაკირი: სამურაის სიკვდილი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Chumscrubber (2005)",
+        "year": "2005",
+        "geo": "ჩამსკრაბერი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "The Platform (2019)",
+        "year": "2019",
+        "geo": "პლატფორმა",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Bad Lieutenant: Port of Call New Orleans (2009)",
+        "year": "2009",
+        "geo": "ცუდი ლეიტენანტი",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "City of God (2002)",
+        "year": "2002",
+        "geo": "ღმერთის ქალაქი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Clockers (1995)",
+        "year": "1995",
+        "geo": "გამსაღებლები",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Wet Hot American Summer: First Day of Camp (2015)",
+        "year": "2015",
+        "geo": "ცხელი სველი ამერიკული ზაფხული",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Mean Streets (1973)",
+        "year": "1973",
+        "geo": "ბოროტი ქუჩები",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Raging Bull (1980)",
+        "year": "1980",
+        "geo": "ცოფიანი ხარი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "The Gentlemen (2019)",
+        "year": "2019",
+        "geo": "ჯენტლმენები",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Escape from Pretoria (2020)",
+        "year": "2020",
+        "geo": "გაქცევა პრეტორიადან",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Slow West (2015)",
+        "year": "2015",
+        "geo": "ნელი დასავლეთი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Persepolis (2007)",
+        "year": "2007",
+        "geo": "პერსეპოლისი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "I'm Not There. (2007)",
+        "year": "2007",
+        "geo": "მე იქ არ ვარ",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Tombstone (1993)",
+        "year": "1993",
+        "geo": "თომბსთოუნი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Righteous Kill (2008)",
+        "year": "2008",
+        "geo": "მკვლელობის უფლება",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "At Eternity's Gate (2018)",
+        "year": "2018",
+        "geo": "უკვდავების კარიბჭესთან",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Snatch (2000)",
+        "year": "2000",
+        "geo": "დიდი ფსონი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Snowpiercer (2013)",
+        "year": "2013",
+        "geo": "თოვლისმჭრელი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "American Pastoral (2016)",
+        "year": "2016",
+        "geo": "ამერიკული პასტორალი",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Perfect Sense (2011)",
+        "year": "2011",
+        "geo": "უკანასკნელი სიყვარული დედამიწაზე",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Glass (2019)",
+        "year": "2019",
+        "geo": "შუშა",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Primal Fear (1996)",
+        "year": "1996",
+        "geo": "პირველყოფილი შიში",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Green Book (2018)",
+        "year": "2018",
+        "geo": "მწვანე წიგნი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "Bohemian Rhapsody (2018)",
+        "year": "2018",
+        "geo": "ბოჰემური რაფსოდია",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Born on the Fourth of July (1989)",
+        "year": "1989",
+        "geo": "ოთხ ივლისს დაბადებული",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "A.I. Artificial Intelligence (2001)",
+        "year": "2001",
+        "geo": "ხელოვნური ინტელექტი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "The Boat That Rocked (2009)",
+        "year": "2009",
+        "geo": "როკ–ტალღა",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Sleepers (1996)",
+        "year": "1996",
+        "geo": "მძინარენი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "The Hunt (2012)",
+        "year": "2012",
+        "geo": "ნადირობა",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "American Animals (2018)",
+        "year": "2018",
+        "geo": "ამერიკელი ცხოველები",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "In America (2002)",
+        "year": "2002",
+        "geo": "ამერიკაში",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "A River Runs Through It (1992)",
+        "year": "1992",
+        "geo": "იქ, სადაც მდინარე მიედინება",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Deer Hunter (1978)",
+        "year": "1978",
+        "geo": "ირმებზე მონადირე",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The English Patient (1996)",
+        "year": "1996",
+        "geo": "ინგლისელი პაციენტი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Fountain (2006)",
+        "year": "2006",
+        "geo": "შადრევანი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Laurence Anyways (2012)",
+        "year": "2012",
+        "geo": "და მაინც ლოურენსი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Hostiles (2017)",
+        "year": "2017",
+        "geo": "მტრები",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "The Man Who Wasn't There (2001)",
+        "year": "2001",
+        "geo": "ადამიანი რომელიც არ არსებობდა",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Eastern Promises (2007)",
+        "year": "2007",
+        "geo": "აღმოსავლური დაპირებები",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Enemy at the Gates (2001)",
+        "year": "2001",
+        "geo": "მტერი კარიბჭესთან",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Blade Runner 2049 (2017)",
+        "year": "2017",
+        "geo": "დანის პირზე მორბენალი 2049",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Head in the Clouds (2004)",
+        "year": "2004",
+        "geo": "თავი ღრუბლებში",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Shot Caller (2017)",
+        "year": "2017",
+        "geo": "ბანდის ხელმძღვანელი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Blood Diamond (2006)",
+        "year": "2006",
+        "geo": "სისხლიანი ალმასი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "The Drop (2014)",
+        "year": "2014",
+        "geo": "დაცემა",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Fucking Berlin (2016)",
+        "year": "2016",
+        "geo": "დაწყევლილი ბერლინი",
+        "imdb": "5.3"
+    },
+    {
+        "eng": "Enter the Void (2009)",
+        "year": "2009",
+        "geo": "სიცარიელეში შესასვლელი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Love (2015)",
+        "year": "2015",
+        "geo": "სიყვარული",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Taking Woodstock (2009)",
+        "year": "2009",
+        "geo": "ვუდსტოკის ალყაში",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Berlin Calling (2008)",
+        "year": "2008",
+        "geo": "ბერლინი გვიხმობს",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Good, the Bad and the Ugly (1966)",
+        "year": "1966",
+        "geo": "კარგი, ცუდი, ბოროტი",
+        "imdb": "8.9"
+    },
+    {
+        "eng": "Daddy's Home 2 (2017)",
+        "year": "2017",
+        "geo": "მამიკოების დაბრუნება 2",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Downfall (2004)",
+        "year": "2004",
+        "geo": "დაცემა",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "Artificial Paradises (2012)",
+        "year": "2012",
+        "geo": "ხელოვნური სამოთხე",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Gangster Squad (2013)",
+        "year": "2013",
+        "geo": "განგსტერებზე მონადირენი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "The Lincoln Lawyer (2011)",
+        "year": "2011",
+        "geo": "ლინკოლნი ადვოკატისათვის",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Hateful Eight (2015)",
+        "year": "2015",
+        "geo": "საძულველი რვიანი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Amores Perros (2000)",
+        "year": "2000",
+        "geo": "სიყვარული ბოროტია",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The Last King of Scotland (2006)",
+        "year": "2006",
+        "geo": "შოტლანდიის უკანასკნელი მეფე",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Amadeus (1984)",
+        "year": "1984",
+        "geo": "ამადეუსი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "American Made (2017)",
+        "year": "2017",
+        "geo": "ამერიკაში დამზადებული",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Walk the Line (2005)",
+        "year": "2005",
+        "geo": "ზღვარის გადაკვეთა",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "The Double (2013)",
+        "year": "2013",
+        "geo": "ორეული",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Gold (2016)",
+        "year": "2016",
+        "geo": "ოქრო",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Crazy Heart (2009)",
+        "year": "2009",
+        "geo": "შეშლილი გული",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Black Swan (2010)",
+        "year": "2010",
+        "geo": "შავი გედი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Fatal Attraction (1987)",
+        "year": "1987",
+        "geo": "საბედისწერო ლტოლვა",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Watchmen (2009)",
+        "year": "2009",
+        "geo": "მცველები",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Mary Shelley's Frankenstein (1994)",
+        "year": "1994",
+        "geo": "ფრანკენშტეინი",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Rescue Dawn (2006)",
+        "year": "2006",
+        "geo": "განთიადის იმედი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Dunkirk (2017)",
+        "year": "2017",
+        "geo": "დიუნკერკი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Meet Joe Black (1998)",
+        "year": "1998",
+        "geo": "გაიცანით ჯო ბლექი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Seven Years in Tibet (1997)",
+        "year": "1997",
+        "geo": "შვიდი წელი ტიბეტში",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Fallen (1998)",
+        "year": "1998",
+        "geo": "დაცემული",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Bird (1988)",
+        "year": "1988",
+        "geo": "ჩიტი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Shame (2011)",
+        "year": "2011",
+        "geo": "სირცხვილი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "The Thin Red Line (1998)",
+        "year": "1998",
+        "geo": "წვრილი წითელი ხაზი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Basic Instinct (1992)",
+        "year": "1992",
+        "geo": "ძირითადი ინსტინქტი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Platoon (1986)",
+        "year": "1986",
+        "geo": "ოცეული",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Kalifornia (1993)",
+        "year": "1993",
+        "geo": "კალიფორნია",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "It's a Wonderful Life (1946)",
+        "year": "1946",
+        "geo": "ეს მშვენიერი ცხოვრება",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Apocalypto (2006)",
+        "year": "2006",
+        "geo": "აპოკალიპტო",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Manchester by the Sea (2016)",
+        "year": "2016",
+        "geo": "მანჩესტერი ზღვასთან",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Indecent Proposal (1993)",
+        "year": "1993",
+        "geo": "უხამსი წინადადება",
+        "imdb": "5.8"
+    },
+    {
+        "eng": "Spirited Away (2001)",
+        "year": "2001",
+        "geo": "მოჩვენებების მიერ გატაცებულნი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Seven Samurai (1954)",
+        "year": "1954",
+        "geo": "შვიდი სამურაი",
+        "imdb": "8.7"
+    },
+    {
+        "eng": "Desert Flower (2009)",
+        "year": "2009",
+        "geo": "უდაბნოს ყვავილი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Flowers of War (2011)",
+        "year": "2011",
+        "geo": "ომის ყვავილები",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Everything Is Illuminated (2005)",
+        "year": "2005",
+        "geo": "და ყველაფერი განათდა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Heat (1995)",
+        "year": "1995",
+        "geo": "შერკინება",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "The Handmaiden (2016)",
+        "year": "2016",
+        "geo": "მოსამსახურე",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Last Night (2010)",
+        "year": "2010",
+        "geo": "წუხელ ნიუ-იორკში",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Our Day Will Come (2010)",
+        "year": "2010",
+        "geo": "ჩვენი დროც მოვა",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Cool Hand Luke (1967)",
+        "year": "1967",
+        "geo": "გულგრილი ლიუკი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Trance (2013)",
+        "year": "2013",
+        "geo": "ტრანსი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Little Miss Sunshine (2006)",
+        "year": "2006",
+        "geo": "პატარა მის ბედნიერება",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Eternal Sunshine of the Spotless Mind (2004)",
+        "year": "2004",
+        "geo": "ნათელი გონების მარადიული ბრწყინვალება",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Guardians of the Galaxy (2014)",
+        "year": "2014",
+        "geo": "გალაქტიკის მცველები",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Training Day (2001)",
+        "year": "2001",
+        "geo": "საწვრთნელი დღე",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Good Lie (2014)",
+        "year": "2014",
+        "geo": "კარგი ტყუილი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Red Dragon (2002)",
+        "year": "2002",
+        "geo": "წითელი დრაკონი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Anthropoid (2016)",
+        "year": "2016",
+        "geo": "ანტროპოიდი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Split (2016)",
+        "year": "2016",
+        "geo": "გახლეჩილი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Baby Driver (2017)",
+        "year": "2017",
+        "geo": "ბეიბი დრაივერი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "City by the Sea (2002)",
+        "year": "2002",
+        "geo": "ქალაქი ზღვასთან",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Last Tango in Paris (1972)",
+        "year": "1972",
+        "geo": "უკანასკნელი ტანგო პარიზში",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "The Bad Batch (2016)",
+        "year": "2016",
+        "geo": "ცუდი პარტია",
+        "imdb": "5.3"
+    },
+    {
+        "eng": "The Lost City of Z (2016)",
+        "year": "2016",
+        "geo": "დაკარგული ქალაქი Z",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Saving Private Ryan (1998)",
+        "year": "1998",
+        "geo": "რიგითი რაიანის გადასარჩენად",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Memoirs of a Geisha (2005)",
+        "year": "2005",
+        "geo": "გეიშას დღიურები",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Silence (2016)",
+        "year": "2016",
+        "geo": "სიჩუმე",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Macbeth (2015)",
+        "year": "2015",
+        "geo": "მაკბეტი",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Out of the Furnace (2013)",
+        "year": "2013",
+        "geo": "ფერფლიდან",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "No Country for Old Men (2007)",
+        "year": "2007",
+        "geo": "მოხუცების ადგილი აქ არ არის",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Solace (2015)",
+        "year": "2015",
+        "geo": "ნუგეში",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Triple 9 (2016)",
+        "year": "2016",
+        "geo": "სამი ცხრიანი",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "2 Guns (2013)",
+        "year": "2013",
+        "geo": "2 იარაღი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Hacksaw Ridge (2016)",
+        "year": "2016",
+        "geo": "ჰაქსოუს გმირი/სინდისის ქენჯნა",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The Martian (2015)",
+        "year": "2015",
+        "geo": "მარსელი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Exodus: Gods and Kings (2014)",
+        "year": "2014",
+        "geo": "მოსე: ღმერთები და მეფეები",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Contraband (2012)",
+        "year": "2012",
+        "geo": "კონტრაბანდა",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Live by Night (2016)",
+        "year": "2016",
+        "geo": "ღამის კანონი",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "The Game (1997)",
+        "year": "1997",
+        "geo": "თამაში",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Crime Spree (2003)",
+        "year": "2003",
+        "geo": "ძარცვა ფრანგულად",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Jamesy Boy (2014)",
+        "year": "2014",
+        "geo": "ჯეიმსი",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Born to Be Blue (2015)",
+        "year": "2015",
+        "geo": "სევდისთვის დაბადებული",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Miles Ahead (2015)",
+        "year": "2015",
+        "geo": "წინ მაილს",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "The Town (2010)",
+        "year": "2010",
+        "geo": "ქურდების ქალაქი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "...And They Lived Happily Ever After (2004)",
+        "year": "2004",
+        "geo": ".... და ისინი დიდხანს და ბედნიერად ცხოვრობდნენ",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Mesrine Part 1: Killer Instinct (2008)",
+        "year": "2008",
+        "geo": "სახელმწიფოს მტერი (ლეგენდა)",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Kill the Irishman (2011)",
+        "year": "2011",
+        "geo": "მოკალით ირლანდიელი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Smokin' Aces (2006)",
+        "year": "2006",
+        "geo": "ტუზ კოზირები",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "The Dark Valley (2014)",
+        "year": "2014",
+        "geo": "ბნელი ხეობა",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "In a Valley of Violence (2016)",
+        "year": "2016",
+        "geo": "ძალადობის ხეობაში",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Almost Famous (2000)",
+        "year": "2000",
+        "geo": "თითქმის ცნობილი",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Donnie Darko (2001)",
+        "year": "2001",
+        "geo": "დონი დარკო",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "War Dogs (2016)",
+        "year": "2016",
+        "geo": "მეომარი ძაღლები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "We Are Your Friends (2015)",
+        "year": "2015",
+        "geo": "ჩვენ თქვენი მეგობრები ვართ",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "The Code (2009)",
+        "year": "2009",
+        "geo": "კოდი",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Malèna (2000)",
+        "year": "2000",
+        "geo": "მალენა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Mike and Dave Need Wedding Dates (2016)",
+        "year": "2016",
+        "geo": "საქორწინო ციებ-ცხელება",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Café Society (2016)",
+        "year": "2016",
+        "geo": "მაღალი საზოგადოება",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "The Iceman (2012)",
+        "year": "2012",
+        "geo": "ყინულის კაცი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Before I Wake (2016)",
+        "year": "2016",
+        "geo": "სანამ გავიღვიძებ",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Lolita (1997)",
+        "year": "1997",
+        "geo": "ლოლიტა",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "L.A. Confidential (1997)",
+        "year": "1997",
+        "geo": "ლოს- ანჯელესის საიდუმლოებანი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Mommy (2014)",
+        "year": "2014",
+        "geo": "დედიკო",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "10 Cloverfield Lane (2016)",
+        "year": "2016",
+        "geo": "კლოვერფილდის შესახვევი 10",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Sing Street (2016)",
+        "year": "2016",
+        "geo": "სიმღერის ქუჩა",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Mon roi (2015)",
+        "year": "2015",
+        "geo": "ჩემი მეფე",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Gods of Egypt (2016)",
+        "year": "2016",
+        "geo": "ეგვიპტის ღმერთები",
+        "imdb": "5.4"
+    },
+    {
+        "eng": "Demolition (2015)",
+        "year": "2015",
+        "geo": "დანგრევა",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "12 Angry Men (1957)",
+        "year": "1957",
+        "geo": "12 განრისხებული მამაკაცი",
+        "imdb": "8.9"
+    },
+    {
+        "eng": "The Shining (1980)",
+        "year": "1980",
+        "geo": "ნათება",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "The Perks of Being a Wallflower (2012)",
+        "year": "2012",
+        "geo": "მარტოსულობის უპირატესობანი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Little White Lies (2010)",
+        "year": "2010",
+        "geo": "პატარა საიდუმლოებები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Dear Eleanor (2016)",
+        "year": "2016",
+        "geo": "ძვირფასო ელეანორ",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Roger Waters: The Wall (2014)",
+        "year": "2014",
+        "geo": "როჯერ უოტერსი - კედელი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Dope (2015)",
+        "year": "2015",
+        "geo": "ნარკოტიკი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Anonymous (2011)",
+        "year": "2011",
+        "geo": "ანონიმი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Café de Flore (2011)",
+        "year": "2011",
+        "geo": "კაფე დე ფლორი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Catch Me If You Can (2002)",
+        "year": "2002",
+        "geo": "აბა დამიჭირე",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Carlito's Way (1993)",
+        "year": "1993",
+        "geo": "კარლიტოს გზა",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "The Wolf of Wall Street (2013)",
+        "year": "2013",
+        "geo": "უოლ სტრიტის მგელი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "A Guide to Recognizing Your Saints (2006)",
+        "year": "2006",
+        "geo": "სახელმძღვანელო წმინდანთა საძიებლად",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "The Wind that Shakes the Barley (2006)",
+        "year": "2006",
+        "geo": "ქარი, რომელიც ქერს არხევს",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Everybody Wants Some!! (2016)",
+        "year": "2016",
+        "geo": "ყველას სურს ვიღაც",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "The Fundamentals of Caring (2016)",
+        "year": "2016",
+        "geo": "სიკეთის მთავარი პრინციპები",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Eddie the Eagle (2015)",
+        "year": "2015",
+        "geo": "ედი მეტსახელად არწივი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Angel-A (2005)",
+        "year": "2005",
+        "geo": "ანგელოზი-ა",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Hush (2016)",
+        "year": "2016",
+        "geo": "სიჩუმე",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Diary of a Sex Addict (2008)",
+        "year": "2008",
+        "geo": "ნიმფომანის დღიური",
+        "imdb": "5.8"
+    },
+    {
+        "eng": "The Diary of a Teenage Girl (2015)",
+        "year": "2015",
+        "geo": "თინეიჯერი გოგოს დღიური",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "The Doors: When You're Strange (2009)",
+        "year": "2009",
+        "geo": "როცა უცხო ხარ: ფილმი ჯგუფ \"Doors\" შესახებ",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Boys Don't Cry (1999)",
+        "year": "1999",
+        "geo": "ბიჭები არ ტირიან",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "The Girl with the Dragon Tattoo (2011)",
+        "year": "2011",
+        "geo": "გოგონა დრაკონის ტატუთი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Nymphomaniac: Vol. I (2013)",
+        "year": "2013",
+        "geo": "ნიმფომანიაკი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Begin Again (2013)",
+        "year": "2013",
+        "geo": "ახალი დასაწყისი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Analyze This (1999)",
+        "year": "1999",
+        "geo": "გაანალიზე ეს",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Rush (2013)",
+        "year": "2013",
+        "geo": "რბოლა",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The Dreamers (2003)",
+        "year": "2003",
+        "geo": "მეოცნებენი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Trainspotting (1996)",
+        "year": "1996",
+        "geo": "ნემსზე (ჩხერკეთელაობა)",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "In the Heart of the Sea (2015)",
+        "year": "2015",
+        "geo": "ზღვის გულში",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "All About My Mother (1999)",
+        "year": "1999",
+        "geo": "ყველაფერი დედაჩემის შესახებ",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Schindler's List (1993)",
+        "year": "1993",
+        "geo": "შინდლერის სია",
+        "imdb": "8.9"
+    },
+    {
+        "eng": "Fear and Loathing in Las Vegas (1998)",
+        "year": "1998",
+        "geo": "შიში და სიძულვილი ლას-ვეგასში",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "From Hell (2001)",
+        "year": "2001",
+        "geo": "ჯოჯოხეთიდან",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Goodfellas (1990)",
+        "year": "1990",
+        "geo": "მაგარი ბიჭები",
+        "imdb": "8.7"
+    },
+    {
+        "eng": "Angels & Demons (2009)",
+        "year": "2009",
+        "geo": "ანგელოზები და დემონები",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Man Up (2015)",
+        "year": "2015",
+        "geo": "მოიქეცი კაცურად",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+        "year": "1996",
+        "geo": "ნუ დაემუქრებით სამხრეთ ცენტრალს მაშინ, როდესაც უბანში წვენს მიირთმევ",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Fargo (1996)",
+        "year": "1996",
+        "geo": "ფარგო",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "The Lobster (2015)",
+        "year": "2015",
+        "geo": "ლობსტერი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Crossroads (1986)",
+        "year": "1986",
+        "geo": "გზაჯვარედინები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Hunger (2008)",
+        "year": "2008",
+        "geo": "შიმშილი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Cadillac Records (2008)",
+        "year": "2008",
+        "geo": "კადილაკ რეკორდსი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Valkyrie (2008)",
+        "year": "2008",
+        "geo": "ვალკირია",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Killing Words (2003)",
+        "year": "2003",
+        "geo": "მკვლელის სიტყვები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Aurore (2005)",
+        "year": "2005",
+        "geo": "ავრორა",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Joyeux Noel (2005)",
+        "year": "2005",
+        "geo": "ბედნიერ შობას გისურვებთ",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Legend (2015)",
+        "year": "2015",
+        "geo": "ლეგენდა",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Gran Torino (2008)",
+        "year": "2008",
+        "geo": "გრან ტორინო",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Boyhood (2014)",
+        "year": "2014",
+        "geo": "მოზარდი",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Child 44 (2015)",
+        "year": "2015",
+        "geo": "ბავშვი 44",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Beasts of the Southern Wild (2012)",
+        "year": "2012",
+        "geo": "ველური სამხრეთის ცხოველები",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Good Will Hunting (1997)",
+        "year": "1997",
+        "geo": "ჭკვიანი უილ ჰანტინგი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Bridge of Spies (2015)",
+        "year": "2015",
+        "geo": "ჯაშუშების ხიდი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "The Pianist (2002)",
+        "year": "2002",
+        "geo": "პიანისტი",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "One Flew Over the Cuckoo's Nest (1975)",
+        "year": "1975",
+        "geo": "ვიღაცამ გუგულის ბუდეს გადაუფრინა",
+        "imdb": "8.7"
+    },
+    {
+        "eng": "Ex Machina (2014)",
+        "year": "2014",
+        "geo": "ექს რობოტი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "A Beautiful Mind (2001)",
+        "year": "2001",
+        "geo": "ბრწყინვალე გონება",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "The Blues Brothers (1980)",
+        "year": "1980",
+        "geo": "ძმები ბლუზები",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "year": "2003",
+        "geo": "კარიბის ზღვის მეკობრეები: შავი მარგალიტის წყევლა",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Ray (2004)",
+        "year": "2004",
+        "geo": "რეი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Empire of the Sun (1987)",
+        "year": "1987",
+        "geo": "მზის იმპერია",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Annie Hall (1977)",
+        "year": "1977",
+        "geo": "ენი ჰოლი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "American Beauty (1999)",
+        "year": "1999",
+        "geo": "ამერიკული სილამაზე",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "Before Sunset (2004)",
+        "year": "2004",
+        "geo": "მზის ჩასვლამდე",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "500 Days of Summer (2009)",
+        "year": "2009",
+        "geo": "სამერის 500 დღე",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+        "year": "1964",
+        "geo": "ექიმი სთრეინჯლავი",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "Blue Jasmine (2013)",
+        "year": "2013",
+        "geo": "სევდიანი ჟასმინი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Babel (2006)",
+        "year": "2006",
+        "geo": "ბაბილონი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "It's Kind of a Funny Story (2010)",
+        "year": "2010",
+        "geo": "ეს ამბავი ძალიან სახალისოა",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Kingsman: The Secret Service (2014)",
+        "year": "2014",
+        "geo": "კინგსმენი: საიდუმლო სამსახური",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Children of Men (2006)",
+        "year": "2006",
+        "geo": "კაცობრიობის პირმშო",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Twelve Monkeys (1995)",
+        "year": "1995",
+        "geo": "12 მაიმუნი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Sweet and Lowdown (1999)",
+        "year": "1999",
+        "geo": "ტკბილი და საძაგელი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Rory O'Shea Was Here (2004)",
+        "year": "2004",
+        "geo": "შინაგანად მე ვცეკვავ",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Coffee and Cigarettes (2003)",
+        "year": "2003",
+        "geo": "ყავა და სიგარეტი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "21 Grams (2003)",
+        "year": "2003",
+        "geo": "21 გრამი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Nebraska (2013)",
+        "year": "2013",
+        "geo": "ნებრასკა",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Requiem for a Dream (2000)",
+        "year": "2000",
+        "geo": "ოცნების რექვიემი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Pawn Sacrifice (2014)",
+        "year": "2014",
+        "geo": "პაიკის გაწირვა",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Midnight in Paris (2011)",
+        "year": "2011",
+        "geo": "შუაღამე პარიზში",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Truman Show (1998)",
+        "year": "1998",
+        "geo": "თრუმენის შოუ",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Man on a Ledge (2012)",
+        "year": "2012",
+        "geo": "ზღვარზე",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Slumdog Millionaire (2008)",
+        "year": "2008",
+        "geo": "მილიონერი ღარიბთა უბნიდან",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Pride and Glory (2008)",
+        "year": "2008",
+        "geo": "სიამაყე და დიდება",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "The Devil's Advocate (1997)",
+        "year": "1997",
+        "geo": "ეშმაკის ადვოკატი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Others (2001)",
+        "year": "2001",
+        "geo": "სხვები",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "John Wick (2014)",
+        "year": "2014",
+        "geo": "ჯონ ვიკი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Sixth Sense (1999)",
+        "year": "1999",
+        "geo": "მეექვსე გრძნობა",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Kill Bill: Vol. 1 (2003)",
+        "year": "2003",
+        "geo": "მოკალი ბილი 1",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Me and Earl and the Dying Girl (2015)",
+        "year": "2015",
+        "geo": "მე, ერლი და მომაკვდავი გოგო",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Memento (2000)",
+        "year": "2000",
+        "geo": "გახსოვდეს",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "The Legend of 1900 (1998)",
+        "year": "1998",
+        "geo": "ლეგენდა პიანისტზე",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Limitless (2011)",
+        "year": "2011",
+        "geo": "უსაზღვრო",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Usual Suspects (1995)",
+        "year": "1995",
+        "geo": "ძირითადი ეჭვმიტანილები",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Only Lovers Left Alive (2013)",
+        "year": "2013",
+        "geo": "მხოლოდ საყვარლები გადარჩებიან",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Seven Psychopaths (2012)",
+        "year": "2012",
+        "geo": "შვიდი ფსიქოპათი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Pulp Fiction (1994)",
+        "year": "1994",
+        "geo": "მაკულატურა",
+        "imdb": "8.9"
+    },
+    {
+        "eng": "I Origins (2014)",
+        "year": "2014",
+        "geo": "მე - დასაწყისი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+        "year": "The ",
+        "geo": "ბერდმენი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Black Mass (2015)",
+        "year": "2015",
+        "geo": "შავი მესა",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "American Sniper (2014)",
+        "year": "2014",
+        "geo": "ამერიკელი სნაიპერი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Equilibrium (2002)",
+        "year": "2002",
+        "geo": "ეკვილიბრუმი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Reservoir Dogs (1992)",
+        "year": "1992",
+        "geo": "ცოფიანი ძაღლები",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "99 francs (2007)",
+        "year": "2007",
+        "geo": "99 ფრანკი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "In Bruges (2008)",
+        "year": "2008",
+        "geo": "ბრიუგეში",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Shrink (2009)",
+        "year": "2009",
+        "geo": "ფსიქოანალიტიკოსი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Eyes Wide Shut (1999)",
+        "year": "1999",
+        "geo": "ფართოდ დახუჭული თვალები",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Machinist (2004)",
+        "year": "2004",
+        "geo": "მემანქანე",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Southpaw (2015)",
+        "year": "2015",
+        "geo": "ცაცია",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "The Curious Case of Benjamin Button (2008)",
+        "year": "2008",
+        "geo": "ბენჯამინ ბატონის უცნაური ამბავი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "25th Hour (2002)",
+        "year": "2002",
+        "geo": "ოცდამეხუთე საათი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Katyn (2007)",
+        "year": "2007",
+        "geo": "კატინი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Jack Reacher (2012)",
+        "year": "2012",
+        "geo": "ჯეკ რიჩერი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Rounders (1998)",
+        "year": "1998",
+        "geo": "შულერები",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "RocknRolla (2008)",
+        "year": "2008",
+        "geo": "როკენროლა",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Gainsbourg (2010)",
+        "year": "2010",
+        "geo": "გინსბურგი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "I Saw the Devil (2010)",
+        "year": "2010",
+        "geo": "მე ვნახე ეშმაკი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Secret Window (2004)",
+        "year": "2004",
+        "geo": "საიდუმლო ფანჯარა",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "The Cell (2000)",
+        "year": "2000",
+        "geo": "გალია",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Who Am I (2014)",
+        "year": "2014",
+        "geo": "ვინ ვარ მე",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Lucky You (2007)",
+        "year": "2007",
+        "geo": "იღბლიანი",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "Flags of our Fathers (2006)",
+        "year": "2006",
+        "geo": "მამების დროშები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Zodiac (2007)",
+        "year": "2007",
+        "geo": "ზოდიაქო",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Control (2007)",
+        "year": "2007",
+        "geo": "კონტროლი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Mad Max: Fury Road (2015)",
+        "year": "2015",
+        "geo": "შეშლილი მაქსი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Dallas Buyers Club (2013)",
+        "year": "2013",
+        "geo": "დალასის შემსყიდველთა კლუბი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Taxi Driver (1976)",
+        "year": "1976",
+        "geo": "ტაქსის მძღოლი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Oblivion (2013)",
+        "year": "2013",
+        "geo": "ობლივიონი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Man on the Moon (1999)",
+        "year": "1999",
+        "geo": "ადამიანი მთვარეზე",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Unforgiven (1992)",
+        "year": "1992",
+        "geo": "უპატიებელი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "Knockin' on Heaven's Door (1997)",
+        "year": "1997",
+        "geo": "კაკუნი ზეცის კარზე",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "The Island (2006)",
+        "year": "2006",
+        "geo": "კუნძული",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Interview with the Vampire: The Vampire Chronicles (1994)",
+        "year": "1994",
+        "geo": "ინტერვიუ ვამპირთან",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Danny Collins (2015)",
+        "year": "2015",
+        "geo": "დენი კოლინზი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Son of a Gun (2014)",
+        "year": "2014",
+        "geo": "ახალი სისხლი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "The Silence of the Lambs (1991)",
+        "year": "1991",
+        "geo": "კრავთა დუმილი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "The Boy in the Striped Pajamas (2008)",
+        "year": "2008",
+        "geo": "ბიჭი ზოლიან პიჟამაში",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Siberian Education (2013)",
+        "year": "2013",
+        "geo": "ციმბირული აღზრდა",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Mr. Nobody (2009)",
+        "year": "2009",
+        "geo": "მისტერ არავინ",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "Interstellar (2014)",
+        "year": "2014",
+        "geo": "ინტერსტელარი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Whiplash (2014)",
+        "year": "2014",
+        "geo": "შეპყრობილი",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "The Theory of Everything (2014)",
+        "year": "2014",
+        "geo": "ყველაფრის თეორია",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Place Beyond the Pines (2012)",
+        "year": "2012",
+        "geo": "ადგილი ფიჭვნარში",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Fury (2014)",
+        "year": "2014",
+        "geo": "რისხვა",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Forrest Gump (1994)",
+        "year": "1994",
+        "geo": "ფორესტ გამპი",
+        "imdb": "8.8"
+    },
+    {
+        "eng": "The Grand Budapest Hotel (2014)",
+        "year": "2014",
+        "geo": "სასტუმრო \"გრანდ ბუდაპეშტი\"",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Predestination (2014)",
+        "year": "2014",
+        "geo": "წინათგრძნობა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Four Rooms (1995)",
+        "year": "1995",
+        "geo": "ოთხი ოთახი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Robin Hood (2010)",
+        "year": "2010",
+        "geo": "რობინ ჰუდი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "The Prestige (2006)",
+        "year": "2006",
+        "geo": "პრესტიჟი",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "Crazy, Stupid, Love. (2011)",
+        "year": "2011",
+        "geo": "სულელი, უაზრო, სიყვარული",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Oculus (2013)",
+        "year": "2013",
+        "geo": "ოკულუსი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "The Conjuring (2013)",
+        "year": "2013",
+        "geo": "წყევლა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Drive (2011)",
+        "year": "2011",
+        "geo": "დრაივი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Midnight Express (1978)",
+        "year": "1978",
+        "geo": "შუაღამის ექსპრესი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Les Misérables (1998)",
+        "year": "1998",
+        "geo": "საბრალონი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Basketball Diaries (1995)",
+        "year": "1995",
+        "geo": "კალათბურთელის დღიურები",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Se7en (1995)",
+        "year": "1995",
+        "geo": "შვიდი",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "One Day (2011)",
+        "year": "2011",
+        "geo": "ერთი დღე",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Edge of Tomorrow (2014)",
+        "year": "2014",
+        "geo": "მომავლის ზღვარი",
+        "imdb": "7.9"
+    },
+    {
+        "eng": "The Fault in Our Stars (2014)",
+        "year": "2014",
+        "geo": "ბედის ვარსკვლავის ბრალია",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "3 Days to Kill (2014)",
+        "year": "2014",
+        "geo": "3 დღე მკვლელობისთვის",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Scent of a Woman (1992)",
+        "year": "1992",
+        "geo": "ქალის სურნელი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Here Comes the Boom (2012)",
+        "year": "2012",
+        "geo": "წარმოგიდგენთ ბუმს",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Into the Wild (2007)",
+        "year": "2007",
+        "geo": "ველურ გარემოში",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "American Psycho (2000)",
+        "year": "2000",
+        "geo": "ამერიკელი ფსიქოპატი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Once Upon a Time in America (1984)",
+        "year": "1984",
+        "geo": "ერთხელ ამერიკაში",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "Koma (2013)",
+        "year": "2013",
+        "geo": "კომა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Rum Diary (2011)",
+        "year": "2011",
+        "geo": "რომის დღიური",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Road to Perdition (2002)",
+        "year": "2002",
+        "geo": "დაწყევლილი გზა",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Illusionist (2006)",
+        "year": "2006",
+        "geo": "ილუზიონისტი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "A Clockwork Orange (1971)",
+        "year": "1971",
+        "geo": "მექანიკური ფორთოხალი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "12 Years a Slave (2013)",
+        "year": "2013",
+        "geo": "12 წელი მონობაში",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Notorious (2009)",
+        "year": "2009",
+        "geo": "ნოტორიუსი",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Tupac: Resurrection (2003)",
+        "year": "2003",
+        "geo": "Tupac: აღდგომა",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "The Shawshank Redemption (1994)",
+        "year": "1994",
+        "geo": "გაქცევა შოუშენკიდან",
+        "imdb": "9.3"
+    },
+    {
+        "eng": "Fight Club (1999)",
+        "year": "1999",
+        "geo": "მებრძოლთა კლუბი",
+        "imdb": "8.8"
+    },
+    {
+        "eng": "Collateral (2004)",
+        "year": "2004",
+        "geo": "თანამოაზრე",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "year": "2007",
+        "geo": "ჯესი ჯეიმსის მკვლელობა",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "The Lone Ranger (2013)",
+        "year": "2013",
+        "geo": "მარტოხელა რეინჯერი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "The Experiment (2010)",
+        "year": "2010",
+        "geo": "ექსპერიმენტი",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Inception (2010)",
+        "year": "2010",
+        "geo": "დასაწყისი",
+        "imdb": "8.8"
+    },
+    {
+        "eng": "I Am David (2003)",
+        "year": "2003",
+        "geo": "მე მქვია დევიდი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "There Will Be Blood (2007)",
+        "year": "2007",
+        "geo": "ნავთობი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Shutter Island (2010)",
+        "year": "2010",
+        "geo": "შეშლილთა კუნძული",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Centurion (2010)",
+        "year": "2010",
+        "geo": "ცენტურიონი",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Ip Man (2008)",
+        "year": "2008",
+        "geo": "იპ მენი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Max Manus: Man of War (2008)",
+        "year": "2008",
+        "geo": "მაქს მანუსი: ომის ადამიანი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Way Back (2010)",
+        "year": "2010",
+        "geo": "გზა შინისაკენ",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Grey Zone (2001)",
+        "year": "2001",
+        "geo": "ნაცრისფერი ზონა",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Warrior (2011)",
+        "year": "2011",
+        "geo": "მეომარი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "The Life of David Gale (2003)",
+        "year": "2003",
+        "geo": "დევიდ გეილის ცხოვრება",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Dorian Gray (2009)",
+        "year": "2009",
+        "geo": "დორიან გრეი",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Lone Survivor (2013)",
+        "year": "2013",
+        "geo": "გადარჩენილი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Jerry Maguire (1996)",
+        "year": "1996",
+        "geo": "ჯერი მაგუაიერი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "A Few Good Men (1992)",
+        "year": "1992",
+        "geo": "რამოდენიმე კარგი ბიჭი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Social Network (2010)",
+        "year": "2010",
+        "geo": "სოციალური ქსელი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Intouchables (2011)",
+        "year": "2011",
+        "geo": "ხელშეუხებელნი",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "A Thousand Words (2012)",
+        "year": "2012",
+        "geo": "ათასი სიტყვა",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "The Words (2012)",
+        "year": "2012",
+        "geo": "სიტყვები",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Legends of the Fall (1994)",
+        "year": "1994",
+        "geo": "შემოდგომის ლეგენდები",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Kingdom of Heaven (2005)",
+        "year": "2005",
+        "geo": "ზეციური სამეფო",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "47 Ronin (2013)",
+        "year": "2013",
+        "geo": "47 რონინი",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Tears of the Sun (2003)",
+        "year": "2003",
+        "geo": "მზის ცრემლები",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Black Hawk Down (2001)",
+        "year": "2001",
+        "geo": "შავი ქორის დესანტი",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Tangerines (2013)",
+        "year": "2013",
+        "geo": "მანდარინები",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "The Da Vinci Code (2006)",
+        "year": "2006",
+        "geo": "და ვინჩის კოდი",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Amélie (2001)",
+        "year": "2001",
+        "geo": "ამელი",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Rango (2011)",
+        "year": "2011",
+        "geo": "რანგო",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Law Abiding Citizen (2009)",
+        "year": "2009",
+        "geo": "კანონმორჩილი მოქალაქე",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "American Gangster (2007)",
+        "year": "2007",
+        "geo": "ამერიკელი განგსტერი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Offender (2012)",
+        "year": "2012",
+        "geo": "დამნაშავე",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Abraham Lincoln: Vampire Hunter (2012)",
+        "year": "2012",
+        "geo": "აბრაამ ლინკოლნი: ვამპირებზე მონადირე",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "Constantine (2005)",
+        "year": "2005",
+        "geo": "კონსტანტინი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Insidious (2010)",
+        "year": "2010",
+        "geo": "ასტრალი",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Priest (2011)",
+        "year": "2011",
+        "geo": "მღვდელი",
+        "imdb": "5.7"
+    },
+    {
+        "eng": "August Rush (2007)",
+        "year": "2007",
+        "geo": "ოგუსტ რაში",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Finding Neverland (2004)",
+        "year": "2004",
+        "geo": "ჯადოსნური ქვეყანა",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "36th Precinct (2004)",
+        "year": "2004",
+        "geo": "ორფევის სანაპირო 36",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Bolo gaseirneba (2012)",
+        "year": "2012",
+        "geo": "ბოლო გასეირნება",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Street Days (2010)",
+        "year": "2010",
+        "geo": "ქუჩის დღეები",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "The Day After Tomorrow (2004)",
+        "year": "2004",
+        "geo": "დღე ხვალის შემდეგ",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Inglourious Basterds (2009)",
+        "year": "2009",
+        "geo": "უსახელო ნაბიჭვრები",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Gravity (2013)",
+        "year": "2013",
+        "geo": "გრავიტაცია",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Donnie Brasco (1997)",
+        "year": "1997",
+        "geo": "დონი ბრასკო",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "Scarface (1983)",
+        "year": "1983",
+        "geo": "ნაიარევი სახე",
+        "imdb": "8.3"
+    },
+    {
+        "eng": "Big Fish (2003)",
+        "year": "2003",
+        "geo": "დიდი თევზი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "The Book of Eli (2010)",
+        "year": "2010",
+        "geo": "ილაის წიგნი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "The Pursuit of Happyness (2006)",
+        "year": "2006",
+        "geo": "ბედნიერების კვალდაკვალ",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Seven Pounds (2008)",
+        "year": "2008",
+        "geo": "შვიდი სიცოცხლე",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Now You See Me (2013)",
+        "year": "2013",
+        "geo": "ახლა მხედავ",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "American History X (1998)",
+        "year": "1998",
+        "geo": "ამერიკული ისტორია X",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "The Hunger Games (2012)",
+        "year": "2012",
+        "geo": "შიმშილის თამაშები",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Django Unchained (2012)",
+        "year": "2012",
+        "geo": "ჯანგო",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "Lucky Number Slevin (2006)",
+        "year": "2006",
+        "geo": "სლევინის იღბლიანი რიცხვი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "The Boondock Saints (1999)",
+        "year": "1999",
+        "geo": "წმინდანები ბუნდოკიდან",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "The Green Mile (1999)",
+        "year": "1999",
+        "geo": "მწვანე გზა",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "Gladiator (2000)",
+        "year": "2000",
+        "geo": "გლადიატორი",
+        "imdb": "8.5"
+    },
+    {
+        "eng": "The Godfather (1972)",
+        "year": "1972",
+        "geo": "ნათლია",
+        "imdb": "9.2"
+    },
+    {
+        "eng": "The Grey (2011)",
+        "year": "2011",
+        "geo": "რუხი ფერი",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Green Street Hooligans (2005)",
+        "year": "2005",
+        "geo": "მწვანე ქუჩის ხულიგნები",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Public Enemies (2009)",
+        "year": "2009",
+        "geo": "საზოგადოებისთვის საშიშნი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Modigliani (2004)",
+        "year": "2004",
+        "geo": "მოდილიანი",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Blow (2001)",
+        "year": "2001",
+        "geo": "კოკაინი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "The Number 23 (2007)",
+        "year": "2007",
+        "geo": "ნომერი 23",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "V for Vendetta (2005)",
+        "year": "2005",
+        "geo": "V ნიშნავს ვენდეტას",
+        "imdb": "8.2"
+    }
+]
