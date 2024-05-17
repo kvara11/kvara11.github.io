@@ -1,29 +1,75 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const movies = [
-        'Movie 1',
-        'Movie 2',
-        'Movie 3',
-        'Movie 4',
-        'Movie 5',
-        'Movie 6',
-        'Movie 7',
-        'Movie 8',
-        'Movie 9',
-        'Movie 10',
-        'Movie 11',
-        'Movie 12',
-        'Movie 13',
-        'Movie 14',
-        'Movie 15',
-        'Movie 16'
-    ];
 
-    const movieGrid = document.getElementById('movieGrid');
+    const styleElement = document.createElement('style');
+    styleElement.textContent = `
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
 
-    movies.forEach(movie => {
-        const movieDiv = document.createElement('div');
-        movieDiv.classList.add('movie');
-        movieDiv.textContent = movie;
-        movieGrid.appendChild(movieDiv);
-    });
+        .container {
+            padding: 100px;
+            text-align: center;
+            background-image: url('bg.webp');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(8, 1fr);
+            gap: 20px;
+        }
+
+        .movie {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            opacity: 0.7;
+        }
+    `;
+
+    // Append the <style> element to the <head> of the document
+    document.head.appendChild(styleElement);
+    fetch('fav.json')
+        .then(response => response.json())
+        .then(movies => {
+            const movieGrid = document.getElementById('movieGrid');
+            movies.forEach(movie => {
+                const movieCard = document.createElement('div');
+                movieCard.classList.add('movie');
+
+                const title = document.createElement('h2');
+                title.textContent = movie.eng;
+
+                const year = document.createElement('p');
+                year.textContent = `Year: ${movie.year}`;
+
+                const geo = document.createElement('p');
+                geo.textContent = `${movie.geo}`;
+
+                const imdb = document.createElement('p');
+                imdb.textContent = `IMDB: ${movie.imdb}`;
+
+                movieCard.appendChild(title);
+                movieCard.appendChild(geo);
+                movieCard.appendChild(year);
+                movieCard.appendChild(imdb);
+
+                movieGrid.appendChild(movieCard);
+
+            });
+        })
+        .catch(error => console.error('Error fetching movies:', error));
 });
+
+
+
