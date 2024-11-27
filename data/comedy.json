@@ -1,0 +1,428 @@
+[
+    {
+        "eng": "Movie 43",
+        "year": "2013",
+        "geo": "კინო 43",
+        "imdb": "4.3"
+    },
+    {
+        "eng": "Bottle Rocket",
+        "year": "1996",
+        "geo": "რაკეტა ბოთლში",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Borat Subsequent Moviefilm",
+        "year": "2020",
+        "geo": "მორიგი ფილმი ბორათზე",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "year": "2006",
+        "geo": "ბორატი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "The Dictator",
+        "year": "2012",
+        "geo": "დიქტატორი",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Kung Fury",
+        "year": "2015",
+        "geo": "კუნგ ფიური",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Tropic Thunder",
+        "year": "2008",
+        "geo": "ტროპიკული ქარიშხალი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Search Party",
+        "year": "2014",
+        "geo": "სამძებრო წვეულება",
+        "imdb": "5.6"
+    },
+    {
+        "eng": "The Gunfighter",
+        "year": "2014",
+        "geo": "მებრძოლი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Meet the Spartans",
+        "year": "2008",
+        "geo": "შეხვედრა სპარტანელებთან",
+        "imdb": "2.7"
+    },
+    {
+        "eng": "Superhero Movie",
+        "year": "2008",
+        "geo": "სუპერგმირული კინო",
+        "imdb": "4.5"
+    },
+    {
+        "eng": "Laid in America",
+        "year": "2016",
+        "geo": "წარმოებულია ამერიკაში",
+        "imdb": "4.5"
+    },
+    {
+        "eng": "Top Secret!",
+        "year": "1984",
+        "geo": "სრულიად საიდუმლოდ!",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Semi-Pro",
+        "year": "2008",
+        "geo": "ნახევრად პროფი",
+        "imdb": "5.8"
+    },
+    {
+        "eng": "Tour de Pharmacy",
+        "year": "2017",
+        "geo": "ტურ დე ფრანსი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "7 Days in Hell",
+        "year": "2015",
+        "geo": "7 დღე ჯოჯოხეთში",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "The Men Who Stare at Goats",
+        "year": "2009",
+        "geo": "ადამიანები, რომლებიც თხებს შეჰყურებდნენ",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Alibi.com",
+        "year": "2017",
+        "geo": "ალიბი.ქომ",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Leaves of Grass",
+        "year": "2009",
+        "geo": "ბალახი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Vacation",
+        "year": "2015",
+        "geo": "არდადეგები",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Daddy's Home 2",
+        "year": "2017",
+        "geo": "მამიკოების დაბრუნება 2",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Wedding Unplanned",
+        "year": "2017",
+        "geo": "საქმრო ორისთვის",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "The House",
+        "year": "2017",
+        "geo": "სახლი",
+        "imdb": "5.6"
+    },
+    {
+        "eng": "Suck Me Shakespeer (Fack Ju Göhte) 2",
+        "year": "2015",
+        "geo": "შენი დედაც, გოეთე 2",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "CHIPS",
+        "year": "2017",
+        "geo": "კალიფორნიის საგზაო პატრული",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Office Christmas Party",
+        "year": "2016",
+        "geo": "კორპორატიული წვეულება",
+        "imdb": "5.8"
+    },
+    {
+        "eng": "Mike and Dave Need Wedding Dates",
+        "year": "2016",
+        "geo": "საქორწინო ციებ-ცხელება",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "Central Intelligence",
+        "year": "2016",
+        "geo": "ცენტრალური დაზვერვა",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "The Nice Guys",
+        "year": "2016",
+        "geo": "კარგი ბიჭები",
+        "imdb": "7.4"
+    },
+    {
+        "eng": "Special Correspondents",
+        "year": "2016",
+        "geo": "სპეციალური კორესპონდენტები",
+        "imdb": "5.8"
+    },
+    {
+        "eng": "Pain & Gain",
+        "year": "2013",
+        "geo": "სისხლით და ოფლით",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Suck Me Shakespeer (Fack Ju Göhte)",
+        "year": "2013",
+        "geo": "შენი დედაც, გოეთე",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "The Do-Over",
+        "year": "2016",
+        "geo": "ხელმეორედ",
+        "imdb": "5.7"
+    },
+    {
+        "eng": "White Collar Blues",
+        "year": "1975",
+        "geo": "ფანტოცი",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "The Brothers Grimsby",
+        "year": "2016",
+        "geo": "ძმები გრიმსბები",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Just Go with It",
+        "year": "2011",
+        "geo": "თავი მოაჩვენე ჩემს მეუღლედ",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Deadpool",
+        "year": "2016",
+        "geo": "დედპული",
+        "imdb": "8.0"
+    },
+    {
+        "eng": "Man Up",
+        "year": "2015",
+        "geo": "მოიქეცი კაცურად",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Dirty Grandpa",
+        "year": "2016",
+        "geo": "ბილწი ბაბუ",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "Wild Tales",
+        "year": "2014",
+        "geo": "ველური ისტორიები",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Daddy's Home",
+        "year": "2015",
+        "geo": "მამიკოს სახლი",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Babysitting",
+        "year": "2014",
+        "geo": "ძიძა",
+        "imdb": "6.8"
+    },
+    {
+        "eng": "Life Is Beautiful",
+        "year": "1997",
+        "geo": "ცხოვრება მშვენიერია",
+        "imdb": "8.6"
+    },
+    {
+        "eng": "Next Friday",
+        "year": "2000",
+        "geo": "შემდეგი პარასკევი",
+        "imdb": "6.1"
+    },
+    {
+        "eng": "Ride Along",
+        "year": "2014",
+        "geo": "ერთობლივი მოგზაურობა",
+        "imdb": "6.2"
+    },
+    {
+        "eng": "Barefoot",
+        "year": "2005",
+        "geo": "ფეხშიშველი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Friday",
+        "year": "1995",
+        "geo": "პარასკევი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "To Rome with Love",
+        "year": "2012",
+        "geo": "რომაული თავგადასავალი",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Get Hard",
+        "year": "2015",
+        "geo": "მიუწვდომელი",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "The Wedding Ringer",
+        "year": "2015",
+        "geo": "დაქირავებული მეჯვარე",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "Hot Tub Time Machine 2",
+        "year": "2015",
+        "geo": "დროის მანქანა ჯაკუზში 2",
+        "imdb": "5.1"
+    },
+    {
+        "eng": "The Interview",
+        "year": "2014",
+        "geo": "ინტერვიუ",
+        "imdb": "6.6"
+    },
+    {
+        "eng": "My Best Friend's Girl",
+        "year": "2008",
+        "geo": "ჩემი საუკეთესო მეგობრის შეყვარებული",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "Horrible Bosses 2",
+        "year": "2014",
+        "geo": "აუტანელი ბოსები 2",
+        "imdb": "6.3"
+    },
+    {
+        "eng": "Death at a Funeral",
+        "year": "2010",
+        "geo": "სიკვდილი დაკრძალვაზე",
+        "imdb": "5.7"
+    },
+    {
+        "eng": "That's My Boy",
+        "year": "2012",
+        "geo": "ეს ჩემი ბიჭია",
+        "imdb": "5.6"
+    },
+    {
+        "eng": "Let's Be Cops",
+        "year": "2014",
+        "geo": "მოდი ვიყოთ პოლიციელები",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Blended",
+        "year": "2014",
+        "geo": "არეულები",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Rabbit Without Ears 2",
+        "year": "2009",
+        "geo": "ბრჭყალების გარეშე 2",
+        "imdb": "5.7"
+    },
+    {
+        "eng": "21 Jump Street",
+        "year": "2012",
+        "geo": "21 ჯამფ სტრიტი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "17 Again",
+        "year": "2009",
+        "geo": "მამა კვლავ 17-ისაა",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "We're the Millers",
+        "year": "2013",
+        "geo": "ჩვენ მილერები ვართ",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Ted",
+        "year": "2012",
+        "geo": "ტედი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Click",
+        "year": "2006",
+        "geo": "დაწკაპუნება",
+        "imdb": "6.4"
+    },
+    {
+        "eng": "Grown Ups",
+        "year": "2010",
+        "geo": "ზრდასრულები",
+        "imdb": "6.0"
+    },
+    {
+        "eng": "The Other Guys",
+        "year": "2010",
+        "geo": "სხვა ბიჭები",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "The Hangover",
+        "year": "2009",
+        "geo": "წვეულება ვეგასში",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "American Pie",
+        "year": "1999",
+        "geo": "ამერიკული ნამცხვარი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Project X",
+        "year": "2012",
+        "geo": "პროექტი X",
+        "imdb": "6.7"
+    },
+    {
+        "eng": "21 & Over",
+        "year": "2013",
+        "geo": "21 და მეტი",
+        "imdb": "5.9"
+    },
+    {
+        "eng": "EuroTrip",
+        "year": "2004",
+        "geo": "ევროტური",
+        "imdb": "6.6"
+    }
+]
