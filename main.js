@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //     arrayForJson.push(mov);
 
     // });
-    
+
     // let jsonString = JSON.stringify(arrayForJson);
 
     // console.log(jsonString);
@@ -49,19 +49,19 @@ document.addEventListener('DOMContentLoaded', () => {
         background-color: #121212;
         color: #ffffff;
         width: 100vw;
-        height: calc(100vh - 10px); /* Reduce height by 10px to avoid scroll */
-        overflow: hidden; /* Prevent scrolling */
+        height: calc(100vh - 10px);
+        overflow: hidden;
         display: flex;
-        flex-direction: column; /* Ensure header and content stack vertically */
+        flex-direction: column;
         }
 
 
         header {
         text-align: center;
         background-color: #1e1e1e;
-        padding: 10px 0; /* Add some space */
+        padding: 10px 0;
         color: #f4c10f;
-        flex-shrink: 0; /* Prevent header from shrinking */
+        flex-shrink: 0;
         }
 
         .category-list {
@@ -88,14 +88,17 @@ document.addEventListener('DOMContentLoaded', () => {
         transform: scale(1.1);
         }
 
+        .category.selected {
+        background-color: #f3940d;
+        }
 
         .movie-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         gap: 15px;
         padding: 10px;
-        overflow: auto; /* Allow scrolling within grid if items overflow */
-        flex-grow: 1; /* Ensure the grid takes remaining space */
+        overflow: auto;
+        flex-grow: 1;
         }
 
         .movie {
@@ -131,6 +134,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     document.head.appendChild(styleElement);
+
+    const categories = document.querySelectorAll('.category');
+
+    categories.forEach(category => {
+        category.addEventListener('click', function () {
+            // Remove the 'selected' class from all categories
+            categories.forEach(cat => cat.classList.remove('selected'));
+
+            // Add the 'selected' class to the clicked category
+            this.classList.add('selected');
+        });
+    });
+
 
     // buttons
     document.querySelector('.cat-favorite').addEventListener('click', () => {
