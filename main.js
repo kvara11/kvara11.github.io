@@ -62,7 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
         padding: 10px 0;
         color: #f4c10f;
         flex-shrink: 0;
+        cursor: pointer;
         }
+        
 
         .category-list {
         display: flex;
@@ -94,7 +96,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         .movie-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(6, minmax(200px, 1fr));
+        grid-template-rows: repeat(2, 200px);
         gap: 15px;
         padding: 10px;
         overflow: auto;
@@ -129,37 +132,51 @@ document.addEventListener('DOMContentLoaded', () => {
         font-size: 2rem;
         }
 
-
     `;
-
 
     document.head.appendChild(styleElement);
 
+
     const categories = document.querySelectorAll('.category');
 
+    // events
     categories.forEach(category => {
         category.addEventListener('click', function () {
-            // Remove the 'selected' class from all categories
             categories.forEach(cat => cat.classList.remove('selected'));
-
-            // Add the 'selected' class to the clicked category
             this.classList.add('selected');
         });
     });
 
 
     // buttons
+    document.querySelector('.title').addEventListener('click', function() {
+        location.reload();
+    });
+
     document.querySelector('.cat-favorite').addEventListener('click', () => {
-        fetchMovies("data/fav.json");
+        main("data/fav.json");
     });
 
     document.querySelector('.cat-series').addEventListener('click', () => {
-        fetchMovies("data/series.json");
+        main("data/series.json");
     });
 
     document.querySelector('.cat-comedy').addEventListener('click', () => {
-        fetchMovies("data/comedy.json");
+        main("data/comedy.json");
     });
+
+    document.querySelector('.cat-documentary').addEventListener('click', () => {
+        main("data/doc.json");
+    });
+
+    document.getElementById('search').addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+            const word = document.getElementById('search').value ?? null;
+            console.log(word);
+            main("", word);
+        }
+    });
+    
 });
 
 
@@ -203,19 +220,102 @@ function render(movieList) {
 }
 
 
-function fetchMovies(jsonFile) {
-    fetch(jsonFile)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('JSON file not found');
-            }
-            return response.json();
-        })
-        .then(data => {
-            render(data);
-        })
-        .catch(error => {
-            console.error('Error fetching movies:', error);
-            render([]);
-        });
+async function fetchMovies(jsonFile) {
+    try {
+        const response = await fetch(jsonFile);
+
+        if (!response.ok) {
+            throw new Error('JSON file not found');
+        }
+
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching movies:', error);
+        return [];
+    }
+}
+
+
+async function search(word) {
+
+    if (!word) {
+        return [];
+    }
+    
+    const jsonFiles = [
+        'data/fav.json',
+        'data/series.json',
+        'data/comedy.json',
+        'data/doc.json',
+    ];
+
+    const searchedData = [];
+
+    for (const fileName of jsonFiles) {
+        const res = await fetchMovies(fileName);
+        searchedData.push(res);
+    }
+    
+    const json = searchedData.flat();
+    let filter = [];
+
+
+    if (word.includes('imdb')) {
+
+        const ratingMatch = word.match(/\d+(\.\d+)?/);
+
+        if (ratingMatch) {
+
+            const searchImdb = parseFloat(ratingMatch[0]);
+
+            filter = json.filter((movie) => {
+                return movie.imdb && parseFloat(movie.imdb) >= searchImdb;
+            });
+
+            return filter;
+        }
+    }
+
+
+    if (word.includes('year')) {
+
+        const yearMatch = word.match(/\d+(\.\d+)?/);
+
+        if (yearMatch) {
+
+            const searchYear = parseInt(yearMatch[0]);
+
+            filter = json.filter((movie) => {
+                return movie.year && parseFloat(movie.year) >= searchYear;
+            });
+
+            return filter;
+        }
+    }
+    
+
+    filter = json.filter(function(movie) {
+        if (movie.eng.toLowerCase().includes(word.toLowerCase()) || 
+            movie.geo.toLowerCase().includes(word.toLowerCase())) {
+            return true;
+        } else {
+            return false;
+        }
+    })
+    
+    return filter;
+}
+
+
+async function main(file, searchWord = null) {
+
+    if (searchWord !== null) {
+        res = await search(searchWord);
+    } else {
+        res = await fetchMovies(file);
+    }
+
+    render(res);
+    return;
 }
