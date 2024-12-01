@@ -132,6 +132,38 @@ document.addEventListener('DOMContentLoaded', () => {
         font-size: 2rem;
         }
 
+        .search-bar {
+            margin: 5px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 10px 20px;
+            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        .search-bar input[type="text"] {
+            padding: 4px;
+            font-size: 16px;
+            border: 2px solid #f4c10f;
+            border-radius: 8px;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            outline: none;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+            text-indent: 5px;
+        }
+
+        .search-bar input[type="text"]::placeholder {
+            color: #f4c10f;
+            opacity: 0.3;
+        }
+
+        .search-bar input[type="text"]:focus {
+            border-color: #f3940d;
+            box-shadow: 0 0 8px #f3940d;
+        }
     `;
 
     document.head.appendChild(styleElement);
@@ -149,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // buttons
-    document.querySelector('.title').addEventListener('click', function() {
+    document.querySelector('.title').addEventListener('click', function () {
         location.reload();
     });
 
@@ -176,7 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
             main("", word);
         }
     });
-    
+
 });
 
 
@@ -242,7 +274,7 @@ async function search(word) {
     if (!word) {
         return [];
     }
-    
+
     const jsonFiles = [
         'data/fav.json',
         'data/series.json',
@@ -256,7 +288,7 @@ async function search(word) {
         const res = await fetchMovies(fileName);
         searchedData.push(res);
     }
-    
+
     const json = searchedData.flat();
     let filter = [];
 
@@ -293,17 +325,17 @@ async function search(word) {
             return filter;
         }
     }
-    
 
-    filter = json.filter(function(movie) {
-        if (movie.eng.toLowerCase().includes(word.toLowerCase()) || 
+
+    filter = json.filter(function (movie) {
+        if (movie.eng.toLowerCase().includes(word.toLowerCase()) ||
             movie.geo.toLowerCase().includes(word.toLowerCase())) {
             return true;
         } else {
             return false;
         }
     })
-    
+
     return filter;
 }
 
