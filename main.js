@@ -64,6 +64,11 @@ document.addEventListener('DOMContentLoaded', () => {
         flex-shrink: 0;
         cursor: pointer;
         }
+
+        #title-text{
+        z-index:100;
+        position:sticky;
+        }
         
 
         .category-list {
@@ -139,7 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
             left: 0;
             width: 100%;
             padding: 10px 20px;
-            z-index: 1000;
+            z-index: 10;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
         }
 
@@ -230,12 +235,14 @@ function render(movieList) {
             movieCard.classList.add('movie');
 
             const title = document.createElement('h2');
+            title.classList.add('eng-title');
             title.textContent = movie.eng;
 
             const year = document.createElement('p');
             year.textContent = `Year: ${movie.year}`;
 
             const geo = document.createElement('p');
+            geo.classList.add('geo-title');
             geo.textContent = `${movie.geo}`;
 
             const imdb = document.createElement('p');
