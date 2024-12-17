@@ -197,6 +197,10 @@ document.addEventListener('DOMContentLoaded', () => {
         main("data/comedy.json");
     });
 
+    document.querySelector('.cat-animation').addEventListener('click', () => {
+        main("data/anim.json");
+    });
+
     document.querySelector('.cat-documentary').addEventListener('click', () => {
         main("data/doc.json");
     });
@@ -280,6 +284,7 @@ async function search(word) {
         'data/series.json',
         'data/comedy.json',
         'data/doc.json',
+        'data/anim.json',
     ];
 
     const searchedData = [];

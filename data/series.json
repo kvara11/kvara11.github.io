@@ -1,5 +1,35 @@
 [
     {
+        "eng": "The Office",
+        "year": "2005",
+        "geo": "ოფისი",
+        "imdb": "9.0"
+    },
+    {
+        "eng": "Devs",
+        "year": "2020",
+        "geo": "დევები",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "The Boys",
+        "year": "2019",
+        "geo": "ბიჭები",
+        "imdb": "8.7"
+    },
+    {
+        "eng": "Guillermo del Toro's Cabinet of Curiosities",
+        "year": "2022",
+        "geo": "გილერმო დელ ტოროს ცნობისმოყვარეობის კაბინეტი",
+        "imdb": "7.0"
+    },
+    {
+        "eng": "Westworld",
+        "year": "2016",
+        "geo": "დასავლეთის სამყარო",
+        "imdb": "8.5"
+    },
+    {
         "eng": "The Mandalorian",
         "year": "2019",
         "geo": "მანდალორელი",

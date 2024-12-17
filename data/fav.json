@@ -1,21 +1,129 @@
 [
     {
+        "eng": "Primer",
+        "year": "2004",
+        "geo": "პრიმერი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Napoleon",
+        "year": "2023",
+        "geo": "ნაპოლეონი",
+        "imdb": "7.2"
+    },
+    {
+        "eng": "Jimi: All Is by My Side",
+        "year": "2013",
+        "geo": "ჯიმი: ყველაფერი მის გვერდით",
+        "imdb": "5.7"
+    },
+    {
+        "eng": "Pan's Labyrinth",
+        "year": "2006",
+        "geo": "პანის ლაბირინთი",
+        "imdb": "8.2"
+    },
+    {
+        "eng": "Don Jon",
+        "year": "2013",
+        "geo": "დონ ჯონი",
+        "imdb": "6.5"
+    },
+    {
+        "eng": "Westworld",
+        "year": "1973",
+        "geo": "დასავლეთის სამყარო",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "Loving Vincent",
+        "year": "2017",
+        "geo": "მიყვარხარ ვინსენტი",
+        "imdb": "7.8"
+    },
+    {
+        "eng": "James Dean",
+        "year": "2001",
+        "geo": "ჯეიმს დინი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Alien: Romulus",
+        "year": "2024",
+        "geo": "უცხო: რომულუსი",
+        "imdb": "7.1"
+    },
+    {
+        "eng": "Shot Caller",
+        "year": "2017",
+        "geo": "გადამწყვეტი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Ronin",
+        "year": "1998",
+        "geo": "რონინი",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Source Code",
+        "year": "2011",
+        "geo": "სორს კოდი",
+        "imdb": "7.5"
+    },
+    {
+        "eng": "Oppenheimer",
+        "year": "2023",
+        "geo": "ოპენჰაიმერი",
+        "imdb": "8.4"
+    },
+    {
+        "eng": "დიდოსტატის მარჯვენა",
+        "year": "1970",
+        "geo": "დიდოსტატის მარჯვენა",
+        "imdb": "N/A"
+    },
+    {
+        "eng": "The Butterfly Effect",
+        "year": "2004",
+        "geo": "პეპლის ეფექტი",
+        "imdb": "7.6"
+    },
+    {
+        "eng": "Pig",
+        "year": "2021",
+        "geo": "ღორი",
+        "imdb": "6.9"
+    },
+    {
+        "eng": "The Terminator",
+        "year": "1984",
+        "geo": "ტერმინატორი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Lord of War",
+        "year": "2005",
+        "geo": "ომის მეფე",
+        "imdb": "7.6"
+    },
+    {
         "eng": "The Northman",
-        "year": "",
+        "year": "2022",
         "geo": "ვიკინგი",
-        "imdb": ""
+        "imdb": "7.0"
     },
     {
         "eng": "The French Dispatch",
         "year": "2020",
         "geo": "ფრანგული მაცნე",
-        "imdb": ""
+        "imdb": "7.1"
     },
     {
         "eng": "Prometheus",
         "year": "2012",
         "geo": "პრომეთე",
-        "imdb": ""
+        "imdb": "7.0"
     },
     {
         "eng": "Blade Runner",
