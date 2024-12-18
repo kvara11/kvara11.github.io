@@ -63,6 +63,9 @@ document.addEventListener('DOMContentLoaded', () => {
         color: #f4c10f;
         flex-shrink: 0;
         cursor: pointer;
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
         }
 
         #title-text{
@@ -139,11 +142,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         .search-bar {
             margin: 5px;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            padding: 10px 20px;
             z-index: 10;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
         }
