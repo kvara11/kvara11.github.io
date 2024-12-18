@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // buttons
-    document.querySelector('.title').addEventListener('click', function () {
+    document.getElementById('title-text').addEventListener('click', function () {
         location.reload();
     });
 
