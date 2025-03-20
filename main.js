@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    // scrap from html
+    // scrap from imovies html
     // ____________ start
     // const movieContainers = document.querySelectorAll('.movie-content'); // Replace with the correct container class
     // const arrayForJson = [];
@@ -38,106 +38,108 @@ document.addEventListener('DOMContentLoaded', () => {
     styleElement.textContent = `
     
         * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
 
         body {
-        font-family: Arial, sans-serif;
-        background-color: #121212;
-        color: #ffffff;
-        width: 100vw;
-        height: calc(100vh - 10px);
-        overflow: hidden;
-        display: flex;
-        flex-direction: column;
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            width: 100vw;
+            height: calc(100vh - 10px);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            background: url('bg.webp') no-repeat center center fixed;
+            background-size: cover;
         }
 
 
         header {
-        text-align: center;
-        background-color: #1e1e1e;
-        padding: 10px 0;
-        color: #f4c10f;
-        flex-shrink: 0;
-        cursor: pointer;
-        display:flex;
-        justify-content: space-around;
-        align-items: center;
+            text-align: center;
+            background-color: #1e1e1e;
+            padding: 10px 0;
+            color: #f4c10f;
+            flex-shrink: 0;
+            cursor: pointer;
+            display:flex;
+            justify-content: space-around;
+            align-items: center;
         }
 
         #title-text{
-        z-index:100;
-        position:sticky;
+            z-index:100;
+            position:sticky;
         }
         
 
         .category-list {
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-        margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
         }
 
         .category {
-        background-color: #f4c10f;
-        color: #121212;
-        padding: 20px 40px;
-        border-radius: 10px;
-        font-size: 1.2rem;
-        font-weight: bold;
-        text-align: center;
-        cursor: pointer;
-        transition: transform 0.3s ease, background-color 0.3s ease;
+            background-color: #f4c10f;
+            color: #121212;
+            padding: 20px 40px;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.3s ease;
         }
 
         .category:hover {
-        background-color: #cba007;
-        transform: scale(1.1);
+            background-color: #cba007;
+            transform: scale(1.1);
         }
 
         .category.selected {
-        background-color: #f3940d;
+            background-color: #f3940d;
         }
 
         .movie-grid {
-        display: grid;
-        grid-template-columns: repeat(6, minmax(200px, 1fr));
-        grid-template-rows: repeat(2, 200px);
-        gap: 15px;
-        padding: 10px;
-        overflow: auto;
-        flex-grow: 1;
+            display: grid;
+            grid-template-columns: repeat(6, minmax(200px, 1fr));
+            grid-template-rows: repeat(2, 200px);
+            gap: 15px;
+            padding: 10px;
+            overflow: auto;
+            flex-grow: 1;
         }
 
         .movie {
-        background-color: #1e1e1e;
-        border: 1px solid #333;
-        border-radius: 8px;
-        padding: 15px;
-        text-align: center;
-        transition: transform 0.2s, background-color 0.2s;
+            background-color: #1e1e1e;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            transition: transform 0.2s, background-color 0.2s;
         }
 
         .movie:hover {
-        transform: scale(1.05);
-        background-color: #f4c10f;
-        color: #121212;
+            transform: scale(1.05);
+            background-color: #f4c10f;
+            color: #121212;
         }
 
         .movie h2 {
-        font-size: 1.2rem;
-        margin-bottom: 10px;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
         }
 
         .movie p {
-        margin: 5px 0;
+            margin: 5px 0;
         }
 
         .movie span {
-        font-size: 2rem;
+            font-size: 2rem;
         }
 
         .search-bar {
@@ -211,7 +213,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('search').addEventListener('keydown', (event) => {
         if (event.key === 'Enter') {
             const word = document.getElementById('search').value ?? null;
-            console.log(word);
             main("", word);
         }
     });

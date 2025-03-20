@@ -1,8 +1,32 @@
 [
     {
+        "eng": "The Seventh Seal",
+        "year": "1957",
+        "geo": "მეშვიდე ბეჭედი",
+        "imdb": "8.1"
+    },
+    {
+        "eng": "Sleepy Hollow",
+        "year": "1999",
+        "geo": "მთვლემარე ღრმული",
+        "imdb": "7.3"
+    },
+    {
+        "eng": "Dreams",
+        "year": "1990",
+        "geo": "სიზმრები",
+        "imdb": "7.7"
+    },
+    {
+        "eng": "Samanishvilis dedinatsvali",
+        "year": "1977",
+        "geo": "სამანიშვილის დედინაცვალი",
+        "imdb": "8.1"
+    },
+    {
         "eng": "Primer",
         "year": "2004",
-        "geo": "პრიმერი",
+        "geo": "დეტონატორი",
         "imdb": "6.9"
     },
     {
@@ -20,7 +44,7 @@
     {
         "eng": "Pan's Labyrinth",
         "year": "2006",
-        "geo": "პანის ლაბირინთი",
+        "geo": "ფავნის ლაბირინთი",
         "imdb": "8.2"
     },
     {
