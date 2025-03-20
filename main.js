@@ -223,8 +223,25 @@ document.addEventListener('DOMContentLoaded', () => {
 function render(movieList) {
 
     const movieGrid = document.getElementById('movie-grid');
-
     movieGrid.innerHTML = '';
+
+    const access = window.location.href.toLowerCase().includes('tkt')
+    if (!access){
+        document.querySelector('.category-list').remove();
+        const movieGrid = document.getElementById('movie-grid');
+        movieGrid.innerHTML = 'არასწორი ბილეთი: Who are you?';
+
+        Object.assign(movieGrid.style, {
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            height: '100vh',
+            fontSize: '24px',
+            fontWeight: 'bold',
+            textAlign: 'center'
+        });
+        return;
+    }
 
     if (movieList && movieList.length > 0) {
 
