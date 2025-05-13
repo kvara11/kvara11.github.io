@@ -252,14 +252,16 @@ function render(movieList) {
 
             const title = document.createElement('h2');
             title.classList.add('eng-title');
-            title.textContent = movie.eng;
+            title.textContent = movie.eng.length > 15 ? movie.eng.slice(0, 15) + '...' : movie.eng;
+
 
             const year = document.createElement('p');
             year.textContent = `Year: ${movie.year}`;
 
             const geo = document.createElement('p');
             geo.classList.add('geo-title');
-            geo.textContent = `${movie.geo}`;
+            geo.textContent = movie.geo.length > 15 ? movie.geo.slice(0, 15) + '...' : movie.geo;
+
 
             const imdb = document.createElement('p');
             imdb.textContent = `IMDB: ${movie.imdb}`;
