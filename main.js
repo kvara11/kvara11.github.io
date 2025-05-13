@@ -132,6 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .movie h2 {
             font-size: 1.2rem;
             margin-bottom: 10px;
+            margin-top: 10px;
         }
 
         .movie p {
@@ -252,7 +253,7 @@ function render(movieList) {
 
             const title = document.createElement('h2');
             title.classList.add('eng-title');
-            title.textContent = movie.eng.length > 20 ? movie.eng.slice(0, 20) + '...' : movie.eng;
+            title.textContent = movie.eng;
 
 
             const year = document.createElement('p');
@@ -260,7 +261,7 @@ function render(movieList) {
 
             const geo = document.createElement('p');
             geo.classList.add('geo-title');
-            geo.textContent = movie.geo.length > 20 ? movie.geo.slice(0, 20) + '...' : movie.geo;
+            geo.textContent = movie.geo;
 
 
             const imdb = document.createElement('p');
