@@ -1,9 +1,21 @@
 [
     {
+        "eng": "Rat Race",
+        "year": "2001",
+        "geo": "ვირთხების რბოლა",
+        "imdb": "6,5"
+    },
+    {
+        "eng": "Kin-dza-dza!",
+        "year": "1986",
+        "geo": "ქინძაძა!",
+        "imdb": "7.8"
+    },
+    {
         "eng": "Serenada",
         "year": "1970",
         "geo": "სერენადა",
-        "imdb": "8,4"
+        "imdb": "8.4"
     },
     {
         "eng": "Movie 43",
