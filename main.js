@@ -210,6 +210,9 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelector('.cat-documentary').addEventListener('click', () => {
         main("data/doc.json");
     });
+    document.querySelector('.cat-short').addEventListener('click', () => {
+        main("data/short.json");
+    });
 
     document.getElementById('search').addEventListener('keydown', (event) => {
         if (event.key === 'Enter') {
@@ -311,6 +314,7 @@ async function search(word) {
         'data/comedy.json',
         'data/doc.json',
         'data/anim.json',
+        'data/short.json',
     ];
 
     const searchedData = [];
