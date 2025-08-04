@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-
+    console.log('Document loaded');
+    
     // scrap from imovies html
     // ____________ start
     // const movieContainers = document.querySelectorAll('.movie-content'); // Replace with the correct container class
